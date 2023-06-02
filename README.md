@@ -15,6 +15,8 @@
   
   ## Usage
   After installing npm packages, the application will be invoked by using the following command: "npm start".
+  
+  Walkthrought video: Coming soon!
 
   ## License
   This application has the MIT License.
