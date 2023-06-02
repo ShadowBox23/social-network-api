@@ -3,7 +3,7 @@ const { User, Thought } = require('../models');
 const userController = {
 
     // get all users
-    getAllUsers(req, res) {
+    getAllUser(req, res) {
         User.find({})
            .populate({
                 path: 'friends',
@@ -100,7 +100,7 @@ const userController = {
       },
 
       // remove friend
-      removeFriend({ params }, res) {
+      deleteFriend({ params }, res) {
         User.findOneAndUpdate(
           { _id: params.userId },
           { $pull: { friends: params.friendId } },
