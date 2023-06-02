@@ -11,8 +11,8 @@
   * [Questions](#questions)
   
   ## Installation
-  Once you have cloned the repo to your local machine and have all of the necessary technologies installed. In the terminal run npm install and then run node server this will open a local server that you can access via whatever browser you use. When you are done make sure to hit control + c in the terminal to end that server so that it doesn't just keep going.
-
+  Once you have cloned the repo to your local machine and have all of the necessary technologies installed. In the terminal run npm install to get all of the required packages. 
+  
   ## Usage
   After installing npm packages, the application will be invoked by using the following command: "npm start".
 
