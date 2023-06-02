@@ -16,6 +16,8 @@
   ## Usage
   After installing npm packages, the application will be invoked by using the following command: "npm start".
   
+  ![Screenshot 2023-06-01 224933](https://github.com/ShadowBox23/social-network-api/assets/120299691/55f7d633-84a3-41c5-a2c3-a5fb1b5b061b)
+
   Walkthrought video: Coming soon!
 
   ## License
