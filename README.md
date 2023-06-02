@@ -1,4 +1,4 @@
-# social-network-api
+# Social-Network-Api
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   This code represents the implementation of an API for a social network web application. The API allows users to perform various actions such as sharing their thoughts, reacting to thoughts posted by their friends, and managing their friend list.
